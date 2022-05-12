@@ -13,8 +13,6 @@
 <a href="https://linkedin.com/in/nima-esmaeilzadeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nima-esmaeilzadeh/" height="30" width="40" /></a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/n13a?template=classic&isocalendar=1&languages=1&stars=1&tweets=1&habits=1&skyline=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&tweets.attachments=true&tweets.limit=2&tweets.user=nimthezee&config.timezone=Europe%2FIstanbul)
-
 
 <h3 align="left">Languages and Tools:</h3>
 
