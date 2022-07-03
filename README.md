@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on fun projects
 - 📫 How to reach me: @NimTheZee on Twitter
 - 😄 Pronouns: He/Him
