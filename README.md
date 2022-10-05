@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on fun projects
-- 📫 How to reach me: @NimTheZee on Twitter
+- 📫 How to reach me: [@NimTheZee](https://twitter.com/NimTheZee) on Twitter
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
