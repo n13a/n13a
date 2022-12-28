@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Redux, Next.Js
 - 👯 I’m looking to collaborate on fun projects
 - 📫 How to reach me: [@NimTheZee](https://twitter.com/NimTheZee) on Twitter
 - 😄 Pronouns: He/Him
