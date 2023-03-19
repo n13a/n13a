@@ -24,5 +24,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n13a&theme=soft-green)](https://git.io/streak-stats)
 
 
+Energy and persistence conquer all things.
+
+
+
 
 
