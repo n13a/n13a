@@ -19,7 +19,7 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n13a&theme=soft-green)](https://git.io/streak-stats)
+
 
 
 <q style="font-size: 18px">Energy and persistence conquer all things.</q>
