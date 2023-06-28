@@ -23,4 +23,4 @@
 
 <img src="https://www.codewars.com/users/omninox/badges/micro" width="150"/>
 
-<q style="font-size: 18px">Energy and persistence conquer all things.</q>
+### <q style="font-size: 18px">Energy and persistence conquer all things.</q>
