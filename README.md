@@ -21,6 +21,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n13a&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://www.codewars.com/users/omninox/badges/micro" width="150"/>
 
 ### <q style="font-size: 18px">Energy and persistence conquer all things.</q>
