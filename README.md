@@ -1,17 +1,8 @@
 ## Hi there 👋 I'm Nima
 
 
-
-- 🌱 I’m currently learning Next.Js and Prisma
-- 👯 I’m looking to collaborate on fun projects
-- 📫 How to reach me: [@NimTheZee](https://twitter.com/NimTheZee) on Twitter
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nima-esmaeilzadeh/)
 - 😄 Pronouns: He/Him
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nimthezee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimthezee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nima-esmaeilzadeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nima-esmaeilzadeh/" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
