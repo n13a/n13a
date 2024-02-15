@@ -10,6 +10,8 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n13a&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n13a&theme=dark-smoky)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n13a&show_icons=true&locale=en&theme=dark" alt="n13a" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n13a&show_icons=true&theme=dark&locale=en&layout=compact" alt="n13a" /></p>
 
 <q>Energy and persistence conquer all things.</q>
